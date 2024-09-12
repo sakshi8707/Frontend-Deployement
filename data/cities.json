@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Goure",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-08-23T10:21:34.000Z",
+      "notes": "",
+      "position": {
+        "lat": "16.299073379216594",
+        "lng": "10.435135821666812"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-08-31T10:21:44.430Z",
+      "notes": "",
+      "position": {
+        "lat": "25.00576146584216",
+        "lng": "29.115357366824227"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Udaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-10T19:11:22.037Z",
+      "notes": "",
+      "position": {
+        "lat": "24.5969126820012",
+        "lng": "73.80493185021534"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Avanos",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-09-10T19:14:58.530Z",
+      "notes": "",
+      "position": {
+        "lat": "38.933872747128824",
+        "lng": "34.88284818257744"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Homberg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-09-10T19:15:13.442Z",
+      "notes": "",
+      "position": {
+        "lat": "50.958469309673674",
+        "lng": "9.440670445034662"
+      },
+      "id": 7
+    }
+  ]
+}
