@@ -1,7 +1,7 @@
 import Map from "../Components/Map";
 import Sidebar from "../Components/Sidebar";
 import styles from "./AppLayout.module.css";
-import User from "../Components/User";
+
 import { useCities } from "../Contexts/CitiesContext";
 
 function AppLayout() {
