@@ -7,7 +7,7 @@ const countryCodeToFlagURL = (countryCode) => {
 };
 
 const CountryItem = ({ country }) => {
-  const { country: countryCode, emoji } = country;
+  const { country: countryCode } = country;
   const flagURL = countryCodeToFlagURL(countryCode);
 
   return (
