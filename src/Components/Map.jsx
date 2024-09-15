@@ -6,8 +6,8 @@ import {
   Popup,
   useMapEvents,
 } from "react-leaflet";
-import { useNavigate, useSearchParams } from "react-router-dom";
-import L, { map } from "leaflet";
+import { useNavigate} from "react-router-dom";
+import L, {  } from "leaflet";
 import "leaflet/dist/leaflet.css";
 import styles from "./Map.module.css";
 import Button from "./Button.jsx";
