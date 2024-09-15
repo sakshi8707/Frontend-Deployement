@@ -74,7 +74,7 @@ export const SignInContainer = styled.div`
 
 
 
-export const navBar = styled.div`
+export const NavBar = styled.div`
   position: absolute;
   top: 0;
   width: 100%;
