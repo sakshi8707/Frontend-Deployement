@@ -37,9 +37,9 @@ function App() {
   return (
     <main>
       <Components.EntireContentLogin>
-        <Components.navBar>
+        <Components.NavBar>
           <PageNav />
-        </Components.navBar>
+        </Components.NavBar>
         <Components.Container>
           <Components.SignUpContainer signinIn={signIn}>
             <Components.Form>
